@@ -1,1 +1,6 @@
-
+w1 = 1 
+w2 = 1
+w3 = 1
+new_weights.set(0, w1)
+new_weights.set(1, w2)
+new_weights.set(2, w3)
